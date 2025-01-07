@@ -1,6 +1,7 @@
 # 🌟 Welcome to Ahmed Mohamed Al-Deeb's GitHub Profile! 🌟
 
-![GitHub Banner](https://via.placeholder.com/1200x300?text=Welcome+to+Ahmed+Mohamed+Al-Deeb%27s+GitHub+Profile)
+![GitHub Banner](https://media.licdn.com/dms/image/v2/D4D16AQEnnDUyc_vxdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706386052273?e=1741824000&v=beta&t=6zLd3hNHWxkMbaze1zRQ75ab65h-IA8UlxqmCWlVKSk)
+
 
 👋 Hi there! I’m **Ahmed Mohamed Al-Deeb**, a driven researcher and developer passionate about harnessing the power of **Artificial Intelligence**, **Machine Learning**, and **Biomedical Engineering** to create innovative solutions that make a difference. 🚀
 
