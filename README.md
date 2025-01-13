@@ -3,7 +3,7 @@
 ![GitHub Banner](https://media.licdn.com/dms/image/v2/D4D16AQEnnDUyc_vxdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706386052273?e=1741824000&v=beta&t=6zLd3hNHWxkMbaze1zRQ75ab65h-IA8UlxqmCWlVKSk)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedxaldeeb&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedxaldeeb" /> </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedxaldeeb&show_icons=true&locale=en" alt="ahmedxaldeeb" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahmedxaldeeb&show_icons=true&locale=en" alt="ahmedxaldeeb" /></p>
 
 
 
